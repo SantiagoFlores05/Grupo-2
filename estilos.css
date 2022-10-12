@@ -1,4 +1,29 @@
+*{
+    background-color: #fff;
+}
 table{
     border: 1px solid black;
-    padding: 0.5%;
+    color: black;
+    margin: auto;
+    border-bottom-left-radius: 1%;
+    border-bottom-right-radius: 1%;
+    background-color: black;
+    text-align: center;
+    margin-top: -25px;
+}
+table td{
+    padding: 1%;
+    width: 150px;
+}
+h1{
+    color: black;
+    text-align: center;
+    border: 3.5px solid black;
+    border-bottom: none;
+    border-top-right-radius: 2%;
+    border-top-left-radius: 2%;
+    padding: 1%;
+    margin-left: 279px;
+    margin-right: 279px;
+    margin-top: 100px;
 }
