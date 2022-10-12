@@ -15,6 +15,10 @@ table td{
     padding: 1%;
     width: 150px;
 }
+.bibliofrafica{
+    padding: 1%;
+    width: 350px;
+}
 h1{
     color: black;
     text-align: center;
@@ -23,7 +27,7 @@ h1{
     border-top-right-radius: 2%;
     border-top-left-radius: 2%;
     padding: 1%;
-    margin-left: 279px;
-    margin-right: 279px;
+    margin-left: 271px;
+    margin-right: 271px;
     margin-top: 100px;
 }
